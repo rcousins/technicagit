@@ -1,0 +1,2 @@
+# technicagit
+learning git
